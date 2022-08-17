@@ -7,8 +7,11 @@ Reconstruir modulos de Node
 npm install
 ```
 
-Construir el build
+Construir el build de produccion
 ```
-npm run build           produccion
-npm run build:dev      desarrollo
+npm run build
+```
+Construir el build de desarrollo
+```
+npm run build:dev
 ```
