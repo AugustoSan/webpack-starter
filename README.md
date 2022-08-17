@@ -15,3 +15,9 @@ Construir el build de desarrollo
 ```
 npm run build:dev
 ```
+
+Correr el proyecto teniendo instalado webpack serve
+
+```
+npm run serve
+```
